@@ -1,4 +1,3 @@
-```markdown
 # Sheet Grabber
 
 Sheet Grabber is an Express.js application designed to fetch data from Google Sheets using Google Sheets API. It provides a secure way to access the contents of specific spreadsheets by requiring an API key for operations.
@@ -75,4 +74,4 @@ Contributions to Sheet Grabber are welcome! Please adhere to the following guide
 - Create a new branch for each feature or improvement.
 - Send a pull request from each feature branch to the main branch.
 
-```
+
